@@ -1,0 +1,8 @@
+.descriptionText {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: rgba(26, 32, 44, var(--text-opacity));
+    padding-top: 0.25rem;
+}
